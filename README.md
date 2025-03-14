@@ -18,6 +18,8 @@ No missing values now. Time to generate individual routes/visualizations.
 
 ### 3rd Commit
 
+/torgersen-bodymass route & code created to visualize the average body mass for Males & Females under the Torgersen island attribute.
+
 ### 4th Commit
 
 ### 5th Commit
