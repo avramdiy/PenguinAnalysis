@@ -22,4 +22,6 @@ No missing values now. Time to generate individual routes/visualizations.
 
 ### 4th Commit
 
+/torgersen-flipperlength route & code created to visualize the average flipper length (mm) for Males & Females under the Torgersen island attribute.
+
 ### 5th Commit
