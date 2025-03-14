@@ -10,6 +10,12 @@ Wrote initial HTML & data.py to load csv into HTML dataframe to '/' route.
 
 ### 2nd Commit
 
+I want to filter data so I see all Torgersen rows associated with the island attribute. '/torgersen' route
+
+There are missing values that cannot be averaged. I would like to remove any rows that have at least one missing value of NaN
+
+No missing values now. Time to generate individual routes/visualizations.
+
 ### 3rd Commit
 
 ### 4th Commit
